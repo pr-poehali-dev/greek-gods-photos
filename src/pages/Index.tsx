@@ -24,7 +24,7 @@ const gods: God[] = [
     title: 'Zeus',
     domain: 'Небо и гром',
     symbol: '⚡',
-    image: 'https://cdn.poehali.dev/projects/369a86ec-04dc-4ea5-b2bb-bfad5519ea3e/files/09a1f3a3-21e1-4749-9756-173c8241cf60.jpg',
+    image: 'https://cdn.poehali.dev/projects/369a86ec-04dc-4ea5-b2bb-bfad5519ea3e/files/da1ff160-13b4-4ea1-bc01-e4964000161f.jpg',
     description: 'Верховный бог Олимпа, повелитель неба, грома и молний. Царь богов и людей, олицетворение власти и справедливости.',
     powers: ['Метание молний', 'Управление погодой', 'Превращение в животных', 'Предвидение будущего'],
     myths: [
